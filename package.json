@@ -1,0 +1,25 @@
+{
+  "name": "cw_kata_promise",
+  "version": "1.0.0",
+  "description": "A kata to learn promises in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeWorksFrance/CW_kata_promise.git"
+  },
+  "keywords": [
+    "kata",
+    "promise",
+    "js",
+    "codeworks"
+  ],
+  "author": "ToF Allan Alexis Tim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CodeWorksFrance/CW_kata_promise/issues"
+  },
+  "homepage": "https://github.com/CodeWorksFrance/CW_kata_promise#readme"
+}
