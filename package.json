@@ -21,5 +21,12 @@
   "bugs": {
     "url": "https://github.com/CodeWorksFrance/CW_kata_promise/issues"
   },
-  "homepage": "https://github.com/CodeWorksFrance/CW_kata_promise#readme"
+  "homepage": "https://github.com/CodeWorksFrance/CW_kata_promise#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "jest": "^28.1.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^28.1.0"
+  }
 }
